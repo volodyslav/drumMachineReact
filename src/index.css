@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+
 body{
   display: flex;
   justify-content: center;
